@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Admszki444
+- 👋 Hi, I’m @Adamski
 - 👀 I’m interested in java, css, html
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
